@@ -1,0 +1,16 @@
+# Core backend
+Flask==3.0.3
+Flask-Cors==4.0.1
+
+# Emotion recognition
+# Use current DeepFace with PyTorch instead of TensorFlow
+deepface==0.0.101
+torch==2.14.0
+torchvision==0.29.0
+opencv-python==4.10.0.84
+
+# Database
+pymongo==4.8.0
+
+# Optional AI tutor
+anthropic==0.39.0
