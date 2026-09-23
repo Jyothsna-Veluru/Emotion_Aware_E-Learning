@@ -125,3 +125,7 @@ emotion-aware-elearning/
 | Fear      | guided      | basic    | easy   | confidence-building, hints  |
 | Surprise  | interactive | advanced | medium | explore curiosity           |
 | Neutral   | steady      | basic    | medium | continue normally           |
+
+Low-confidence detections soften toward neutral to avoid jarring changes.
+
+
